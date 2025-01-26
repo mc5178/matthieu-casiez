@@ -1,2 +1,2 @@
-# matthieu-casiez
-Portfolio de projets de data science
+# Matthieu Casiez
+## Portfolio de projets en data science
