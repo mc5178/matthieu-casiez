@@ -6,3 +6,4 @@
 
 ### Data Analyse 
 - [Analyse de 33 produits McDonald's](https://github.com/mc5178/matthieu-casiez/blob/main/Analyse_Jeu_Donnees_McDo.ipynb) : ce code analyse les valeurs nutritionnelles de 33 produits McDonald's, en explorant leur apport en lipides, glucides, protéines, calories, etc. Un modèle de régression linéaire multivariée est construit avec Scikit-learn pour prédire les calories à partir des lipides, glucides, et protéines, confirmant que les coefficients obtenus correspondent aux valeurs nutritionnelles théoriques.
+- [Série temporelle : prédiction de la température à Reims avec Facebook Prophet](https://github.com/mc5178/matthieu-casiez/blob/main/Serie_Temporelle_Prediction_Temperature_Reims.ipynb) : ce projet a pour objectif de prédire l'évolution des températures maximales mensuelles pour la ville de Reims.
